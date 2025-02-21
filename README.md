@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MoonMovie project<br><br>🌱 I’m currently learning Angular, React Native<br><br>📫 How to reach me pitithuong@gmail.com
+🔭 I am currently looking for a job as a frontend developer.<br><br>🌱 I am currently learning react native.<br><br>📫 How to reach me pitithuong@gmail.com
 
 
 ## 🌐 Socials:
